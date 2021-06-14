@@ -1,0 +1,24 @@
+ ==============================================================================
+ Code  Deals                         |     Code   Cold Drinks
+ ==============================================================================
+ DN1   Deal number 1    Rs.1050      |      CD1   1)Pepsi     500ml      Rs.60
+       2 Chicken Burger w/Fries      |      CD2   2)Sprite    500ml      Rs.60
+       2 Beef Burger    w/Fries      |      CD3   3)7up       500ml      Rs.60
+       4 500ml drinks                |      CD4   4)Coca Cola 500ml      Rs.60
+       1 coleslaw                    |      CD5   5)Miranda   500ml      Rs.60
+       4pcs Nuggets                  |                                     
+                                     |                                   
+ DN2   Deal number 2     Rs.750      |            Fries                  
+       3 Chicken Burger w/Fries      |      F01   1)Regular Plain Fries  Rs.100 
+       3 500ml drinks                |      F02   2)Regular Masala Fries Rs.100 
+       3pcs Nuggets                  |      F03   3)Jumbo Plain Fries    Rs.180 
+       1 coleslaw                    |      F04   4)Jumbo Masala Fries   Rs.180 
+                                     |
+ DN3   Deal number 3     Rs.900      |            Burgers/Sandwiches 
+       2 Club Sandwiches             |      BS1   1) Chicken Burger      Rs.240 
+       2 Chicken Burger              |      BS2   2) Beef Burger         Rs.250 
+       4 500ml drinks                |      BS3   3) Club Sandwich       Rs.200 
+                                     |           		
+       Extras                        |
+ E01   4 pcs Nuggets     Rs.400      |
+ E02   Hot and Sour Soup Rs.150      |
